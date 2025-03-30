@@ -1,2 +1,2 @@
-# Sarah-Dine
+# Sarah Dine
 Inteligência Artificial
